@@ -1,4 +1,4 @@
-[{"username":"septianfitra","password":"password123"},
-{"username":"teslogin","password":"tes123"},
-{"username":"halo","password":"halo123"},
-{"username":"waw","password":"waw123"}]
+{
+  "status": "success",
+  "message": "Login successful"
+}
