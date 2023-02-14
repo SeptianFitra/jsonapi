@@ -1,4 +1,6 @@
+Content-Type: application/json
+
 {
-  "status": "success",
-  "message": "Login successful"
+  "username": "septianfitra",
+  "password": "password123"
 }
